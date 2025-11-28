@@ -1,9 +1,9 @@
-### Olá! Eu sou o **Victor Mont'Mor** 👋
+### Hey there! I am **Victor Mont'Mor** 👋
 
-- 🎓 Graduando em **Engenharia de Computação**, CEFET-MG.
-- 💻 Trabalho no projeto de extensão **COMPET** como desenvolvedor.
-- 🧬 Pesquisador de projeto de Iniciação Científica na área de **Otimização** via **Algorítmos Genéticos**.
-- 👨🏽‍💻 Competidor de **Maratonas de Programação**.
+- 🎓 I am a Computer Engineering student at CEFET-MG (Brazil)
+- 💻 I've done a one year exchange program studying at Hochschule München and working in Germany.
+- 🧬 I don't just write code; I solve problems.
+- 👨🏽‍💻 If I don't know how to solve a problem yet, give me a few hours, and I will..
 
 ##
 
